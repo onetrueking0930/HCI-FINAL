@@ -136,7 +136,7 @@ footer{
 {
 	min-height: 750px;	
 	min-width: 100%;
-	background: url(tara.jpeg) no-repeat;
+	background: black;
 	background-size: cover;
 	text-align: center;
 	padding-top: 50px;
@@ -146,25 +146,24 @@ footer{
 }
 
 .pic1{
-	position: absolute top-right;
-	display: inline-flex;
+	height:190;
+	width:400;
 
 }
 
 .pic2{
-	
-	position: bottom;
-	display: table-footer-group;
+	height: 190;
+	width:400;
 }
 
 .pic3{
-	position: absolute bottom-right;
-	display: inline-flex;
+	height: 300;
+	width:400;
 }
 
+.pic4{
 
-
-
-.vid{
-	position: center;
+	height: 190;
+	width:400;
+	
 }
