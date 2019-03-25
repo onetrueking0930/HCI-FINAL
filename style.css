@@ -76,3 +76,58 @@ footer{
 .button a:hover{
 	background-color: darkorange;
 }
+
+.content1
+{
+
+	min-height: 750px;	
+	min-width: 100%;
+	background: url(water.jpeg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 60px;
+	color: black;
+	padding-bottom: 10px;
+}
+
+.textarea{
+	position: left;
+
+}
+
+.box
+{
+    display: table-cell;
+	border:3px; 
+	border-style:solid; 
+	border-color:black; 
+	padding: 1em;
+	width: 20%;
+	height: 350px;
+	font-size: 23px;
+	position: center;
+}
+.box2
+{
+	display: table-cell;
+	border:3px; 
+	border-style:solid; 
+	border-color:black; 
+	padding: 1em;
+	width: 20%;
+	height: 350px;
+	font-size: 23px;
+}
+.box3
+{
+	display: table-cell;
+	position: top-right;
+	border:3px; 
+	border-style:solid; 
+	border-color:black; 
+	padding: 1em;
+	width: 20%;
+	height: 350px;
+	font-size: 23px;
+}
